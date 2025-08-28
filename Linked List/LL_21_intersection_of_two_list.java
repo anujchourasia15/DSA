@@ -1,3 +1,7 @@
+// 27 aug 2025
+//Link: https://leetcode.com/problems/intersection-of-two-linked-lists/?envType=problem-list-v2&envId=linked-list
+
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

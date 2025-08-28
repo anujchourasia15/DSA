@@ -1,3 +1,6 @@
+// 27 aug 2025
+//Link: https://leetcode.com/problems/remove-linked-list-elements/?envType=problem-list-v2&envId=linked-list
+
 class LL_20_remove_elements_linked_list {
     public ListNode removeElements(ListNode head, int val) {
         ListNode dummy = new ListNode(-1);
